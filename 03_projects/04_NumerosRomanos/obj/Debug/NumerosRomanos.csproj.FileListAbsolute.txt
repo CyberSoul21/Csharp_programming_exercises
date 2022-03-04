@@ -1,0 +1,10 @@
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\NumerosRomanos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\NumerosRomanos\obj\Debug\NumerosRomanos.exe
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\NumerosRomanos\obj\Debug\NumerosRomanos.pdb
+E:\Programacion\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.exe
+E:\Programacion\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.pdb
+E:\Programacion\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+E:\Programacion\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+E:\Programacion\NumerosRomanos\NumerosRomanos\obj\Debug\ResolveAssemblyReference.cache

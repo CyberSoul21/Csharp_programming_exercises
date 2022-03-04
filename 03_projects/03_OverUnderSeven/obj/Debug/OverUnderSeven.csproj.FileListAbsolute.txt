@@ -1,0 +1,20 @@
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\OverUnderSeven\OverUnderSeven\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.exe
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.pdb
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.exe
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.pdb
+E:\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.exe
+E:\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.pdb
+E:\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.exe
+E:\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.pdb
+E:\OverUnderSeven\OverUnderSeven\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.exe
+C:\Documents and Settings\Admin\Escritorio\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.pdb
+C:\Documents and Settings\Admin\Escritorio\OverUnderSeven\OverUnderSeven\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.exe
+C:\Documents and Settings\Admin\Escritorio\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.pdb
+F:\Programacion\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.exe
+F:\Programacion\OverUnderSeven\OverUnderSeven\obj\Debug\OverUnderSeven.pdb
+F:\Programacion\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.exe
+F:\Programacion\OverUnderSeven\OverUnderSeven\bin\Debug\OverUnderSeven.pdb
+F:\Programacion\OverUnderSeven\OverUnderSeven\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.exe
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.pdb
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.Form1.resources
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.Properties.Resources.resources
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.pdb

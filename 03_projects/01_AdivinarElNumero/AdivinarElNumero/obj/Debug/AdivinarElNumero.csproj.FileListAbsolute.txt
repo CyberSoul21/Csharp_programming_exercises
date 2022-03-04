@@ -1,0 +1,8 @@
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\AdivinarElNumero\bin\Debug\AdivinarElNumero.exe
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\AdivinarElNumero\bin\Debug\AdivinarElNumero.pdb
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\AdivinarElNumero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\AdivinarElNumero\obj\Debug\AdivinarElNumero.exe
+C:\Documents and Settings\wilson\Configuración local\Datos de programa\Temporary Projects\AdivinarElNumero\obj\Debug\AdivinarElNumero.pdb
+E:\Programacion\AdivinarElNumero\AdivinarElNumero\obj\Debug\AdivinarElNumero.exe
+E:\Programacion\AdivinarElNumero\AdivinarElNumero\obj\Debug\AdivinarElNumero.pdb
+E:\Programacion\AdivinarElNumero\AdivinarElNumero\obj\Debug\ResolveAssemblyReference.cache

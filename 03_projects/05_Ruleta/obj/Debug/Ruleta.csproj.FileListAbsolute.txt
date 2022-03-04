@@ -1,0 +1,22 @@
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.exe
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.pdb
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+C:\Documents and Settings\Admin\Mis documentos\Visual Studio 2008\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.pdb
+C:\Documents and Settings\wilson\Escritorio\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+C:\Documents and Settings\wilson\Escritorio\Ruleta\Ruleta\obj\Debug\Ruleta.pdb
+C:\Documents and Settings\wilson\Escritorio\Ruleta\Ruleta\bin\Debug\Ruleta.exe
+C:\Documents and Settings\wilson\Escritorio\Ruleta\Ruleta\bin\Debug\Ruleta.pdb
+C:\Documents and Settings\wilson\Escritorio\Ruleta\Ruleta\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\Ruleta\Ruleta\bin\Debug\Ruleta.exe
+C:\Documents and Settings\Admin\Escritorio\Ruleta\Ruleta\bin\Debug\Ruleta.pdb
+C:\Documents and Settings\Admin\Escritorio\Ruleta\Ruleta\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+C:\Documents and Settings\Admin\Escritorio\Ruleta\Ruleta\obj\Debug\Ruleta.pdb
+E:\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+E:\Ruleta\Ruleta\obj\Debug\Ruleta.pdb
+C:\Documents and Settings\wilson\Escritorio\Ruleta1\Ruleta\obj\Debug\Ruleta.exe
+C:\Documents and Settings\wilson\Escritorio\Ruleta1\Ruleta\obj\Debug\Ruleta.pdb
+C:\Documents and Settings\wilson\Escritorio\Ruleta1\Ruleta\bin\Debug\Ruleta.exe
+C:\Documents and Settings\wilson\Escritorio\Ruleta1\Ruleta\bin\Debug\Ruleta.pdb
+C:\Documents and Settings\wilson\Escritorio\Ruleta1\Ruleta\obj\Debug\ResolveAssemblyReference.cache
